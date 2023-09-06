@@ -83,21 +83,26 @@ print("RMSE= ",rmse)
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
 
+## 1. df.head()
 ![image](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/17850d51-ffc6-4317-a0e9-32940df803c7)
 
+## 2. df.tail()
 ![262950286-18485cf5-edeb-47aa-8681-89519d735c72](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/e6a3d4a0-205d-4e0b-acf7-67d1060773dd)
 
+## 3. Array value of X
 ![262950328-8f8b89cc-7dc2-4c94-89a9-c7a1ef2e8313](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/e97c94f3-4d56-4956-8e58-acae2689fb39)
+### 4. Array value of Y
 
 ![262950432-670cdc76-9c84-4ef9-a007-7a823beb9803](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/e4161ddf-ba23-4c7d-bf26-d1c59a81aae8)
-
+### 5. Values of Y prediction
 ![image](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/0c582493-f29f-4b1b-ab4f-f5788d6f848a)
-
+## 6. Array values of Y test
 ![image](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/d002dfa9-4d65-4ade-82c5-0881afb17237)
-
+## 7. Training Set Graph
 ![image](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/5e56f384-5409-459a-82f3-d033a1a432a5)
-
+## 8. Test Set Graph
 ![image](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/3cc2057f-6591-4ac1-ba3d-231babe1aa7d)
+## 9. Values of MSE, MAE and RMSE
 
 ![image](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/e3f82eb9-bdf1-486f-85dd-06a2add40a7f)
 
