@@ -84,7 +84,12 @@ print("RMSE= ",rmse)
 
 ## Output:
 ![277167935-fa128769-a5ee-4ab8-96be-36d9989dfbc1](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/fa640f3f-fa6d-4cdd-966a-f8c6700db184)
-![277167995-e446e77c-4082-4572-a2f6-ae96cc2fe6fd](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/1194
+
+![277167995-e446e77c-4082-4572-a2f6-ae96cc2fe6fd](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/be195996-4c94-4d1b-ac6a-dba15cfb3465)
+
+
+
+
 ![277168020-7f7796b8-044f-4408-9c48-11af284376c4](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/d69b6641-d490-4bdb-964b-ea4ce8659f8e)
 04951/c13e0fdd-9df2-466c-be7c-208531f98409)
 ![277168036-06c589a2-9a2c-4f24-9ca8-6dce58aef77f](https://github.com/SubashiniSenniappan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404951/f05d272b-b501-4a5e-bfe8-a26a41deeb8f)
